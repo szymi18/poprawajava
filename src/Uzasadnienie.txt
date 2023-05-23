@@ -1,0 +1,1 @@
+ArrayList ponieważ jest to tablica dynamiczna
